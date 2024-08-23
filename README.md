@@ -1,5 +1,4 @@
-# About Me
-
+![Ahmad Ali Rafique](https://github.com/Ahmad-Ali-Rafique/USA-House_Price-Predict/blob/main/house%20price%20prediction.png)
 ## Ahmad Ali Rafique
 
 I am an AI & Machine Learning Specialist with expertise in developing and deploying machine learning models for various applications. With a strong foundation in deep learning, natural language processing, and data science, I am dedicated to building innovative solutions that address real-world challenges.
